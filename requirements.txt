@@ -1,0 +1,8 @@
+bs4
+Flask
+Flask-RESTful
+gevent
+gunicorn
+lxml
+requests[security]
+simplejson

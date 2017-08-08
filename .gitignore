@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+*.dia~
+*.doc~
+*.docx~
+~*.xlsx
+.~lock*
+*.bmml
+env/
+dev/
+local_settings.py
